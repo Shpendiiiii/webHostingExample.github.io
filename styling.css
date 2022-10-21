@@ -1,0 +1,109 @@
+.textClass {
+    font-size: "10em"; 
+    color: red;
+}
+.imagePosition{
+    position: absolute;
+    margin-top: 40em;
+    margin-bottom: 40em;
+    display: flex;
+}
+
+
+h1 {
+  color: blue;
+}
+
+
+/* a{
+    text-decoration: none;
+
+} */
+
+/* a:hover{
+    background-color:yellow
+} */
+
+h2 {
+    padding: 0.5em;
+    border-style: dashed;
+    margin: 0.5em;
+}
+
+.greenMove{
+    position: absolute;
+    color: greenyellow;
+    right: 15px;
+    bottom: 25px;
+}
+
+.navProp{
+    background-color: antiquewhite;
+    color:black;
+    border-style: dashed;
+    
+}
+
+.navigation{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.navigation:hover{
+    background-color: aquamarine;
+    text-decoration: overline;
+}
+
+
+
+ .firstPara{
+    position: relative;
+   right: 20em;
+    border-style: dashed;
+    width: 15em;
+    height: 12em;
+    float: right;
+}
+
+.secondPara{
+    position: relative;
+    left: 20em;
+    border-style: dashed;
+    width: 15em;
+    height: 12em;
+    float: left;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hoverOver{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.hoverOver:hover{
+    color:aqua;
+    background-color: black;
+}
+
+.test{
+    color: red;
+
+}
+
+.test:hover{
+    background-color: red;
+    color: limegreen;
+    text-decoration: overline;
+}
+
+
+
